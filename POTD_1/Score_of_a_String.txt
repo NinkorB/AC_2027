@@ -1,0 +1,18 @@
+Solution link https://leetcode.com/problems/score-of-a-string/solutions/6171740/score-of-string-by-ninkor-d6ks/
+
+
+source code 
+
+
+#include<string.h>
+class Solution {
+public:
+    int scoreOfString(string s) {
+        int sum=0, i=0;
+        for(i; i<s.length()-1; i++){
+           sum += abs(s[i]-s[i+1]);
+        }
+        return sum;
+        
+    }
+};

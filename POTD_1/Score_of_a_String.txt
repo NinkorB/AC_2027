@@ -1,9 +1,7 @@
 Solution link https://leetcode.com/problems/score-of-a-string/solutions/6171740/score-of-string-by-ninkor-d6ks/
 
 
-source code 
-
-
+## source code :
 #include<string.h>
 class Solution {
 public:

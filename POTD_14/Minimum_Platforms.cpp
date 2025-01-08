@@ -1,7 +1,7 @@
-Solution LInk : 
+// Solution LInk : 
 
-## source code :
-Language: cpp
+// Source code :
+// Language: cpp
 
 
 class Solution {

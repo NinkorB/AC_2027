@@ -1,7 +1,7 @@
-Solution LInk : https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/submissions/1485801356
+// Solution LInk : https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/submissions/1485801356
 
-## source code :
-Language: cpp
+// Source code :
+// Language: cpp
 
 class Solution {
 public:

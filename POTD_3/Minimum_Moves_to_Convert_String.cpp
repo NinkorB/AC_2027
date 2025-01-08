@@ -1,7 +1,7 @@
-Solution LInk : https://leetcode.com/problems/minimum-moves-to-convert-string/submissions/1502054436
+// Solution LInk : https://leetcode.com/problems/minimum-moves-to-convert-string/submissions/1502054436
 
-## source code :
-Language: cpp
+// Source code :
+// Language: cpp
 
 class Solution {
 public:

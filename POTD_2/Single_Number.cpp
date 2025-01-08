@@ -1,8 +1,9 @@
-Solution Link : https://leetcode.com/problems/single-number/submissions/1485396832
+// Solution Link : https://leetcode.com/problems/single-number/submissions/1485396832
 
 
-## source code :
-```cpp []
+// Source code :
+// cpp []
+
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {

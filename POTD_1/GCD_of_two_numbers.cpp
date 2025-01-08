@@ -1,7 +1,6 @@
-Solution link https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1
+//Solution link https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1
 
-
-##source code 
+//source code 
 class Solution {
   public:
     int gcd(int a, int b) {

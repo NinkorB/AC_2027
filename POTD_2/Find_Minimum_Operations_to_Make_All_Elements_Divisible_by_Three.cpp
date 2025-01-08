@@ -1,8 +1,8 @@
-Solution LInk : https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/submissions/1485401509
+// Solution LInk : https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/submissions/1485401509
 
 
-## source code :
-```cpp []
+// Source code :
+// cpp []
 class Solution {
 public:
     int minimumOperations(vector<int>& nums) {

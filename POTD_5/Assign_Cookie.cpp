@@ -1,7 +1,7 @@
-Solution LInk : https://leetcode.com/problems/sort-colors/submissions/1487403935
+// Solution LInk : https://leetcode.com/problems/sort-colors/submissions/1487403935
 
-## source code :
-Language: cpp
+// Source code :
+// Language: cpp
 
 class Solution {
 public:

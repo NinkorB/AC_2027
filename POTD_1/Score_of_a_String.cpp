@@ -2,7 +2,7 @@
 
 
 // source code :
-// ```cpp []
+// cpp []
 
 #include<string.h>
 class Solution {

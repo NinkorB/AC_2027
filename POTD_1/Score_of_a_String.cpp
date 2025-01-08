@@ -1,6 +1,5 @@
 // Solution link https://leetcode.com/problems/score-of-a-string/submissions/1484705786
 
-
 // source code :
 // cpp []
 

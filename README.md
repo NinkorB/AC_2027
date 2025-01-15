@@ -13,6 +13,3 @@ The primary objective of this repository is to document and share the solutions 
 
 ## Usage
 Feel free to browse the repository for problem-solving insights and code examples. You can clone this repo to follow along or use it as a reference for DSA learning.
-
-## Contributions
-If you'd like to contribute or suggest improvements to my solutions, please feel free to open an issue or submit a pull request. Contributions are always welcome!
